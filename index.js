@@ -267,4 +267,4 @@ client.on('message', message => {
 
 
 
-client.login(process.env.TOKEN)
+client.login('ODM1NTMyNTY2NTU5ODUwNDk3.YIQ0Vw.2v63L2DlmOvc8m3xyTzvVLmN_gw')
